@@ -14,12 +14,12 @@ Hay que mencionar que este servicio también proporciona controles d gobierno pa
 ---- Agregar un poco sobre las políticas 
 
 Características principales de DataZone
-•	Un catálogo centralizado de activos de datos: DataZone proporciona una vista única de todos los activos de datos de una organización, independientemente de dónde estén almacenados. Esto facilita a los usuarios encontrar los datos que necesitan, independientemente de dónde se encuentren.
-•	Controles de gobierno: DataZone proporciona una variedad de controles de gobierno para ayudar a las organizaciones a proteger sus datos. Estos controles se pueden usar para controlar quién tiene acceso a los datos, qué pueden hacer con ellos y cómo se almacenan.
-•	Integración con otros servicios de AWS: DataZone se puede integrar con otros servicios de AWS, como Amazon Redshift, Amazon Athena y Amazon S3. Esto facilita el uso de DataZone para administrar los datos almacenados en estos servicios.
+-	Un catálogo centralizado de activos de datos: DataZone proporciona una vista única de todos los activos de datos de una organización, independientemente de dónde estén almacenados. Esto facilita a los usuarios encontrar los datos que necesitan, independientemente de dónde se encuentren.
+-	Controles de gobierno: DataZone proporciona una variedad de controles de gobierno para ayudar a las organizaciones a proteger sus datos. Estos controles se pueden usar para controlar quién tiene acceso a los datos, qué pueden hacer con ellos y cómo se almacenan.
+-	Integración con otros servicios de AWS: DataZone se puede integrar con otros servicios de AWS, como Amazon Redshift, Amazon Athena y Amazon S3. Esto facilita el uso de DataZone para administrar los datos almacenados en estos servicios.
 AWS ha lanzado una herramienta con gran poder que ayudará a las organizaciones a administrar sus activos de datos con mayor efectividad
 
 # ¿Por qué utilizar Amazon DataZone?# 
 -	Detección y acceso de datos mejorados: DataZone facilita la búsqueda y el acceso a los datos, independientemente de dónde estén almacenados. Esto puede ayudar a las organizaciones a ahorrar tiempo y dinero al reducir la necesidad de crear y mantener sus propios catálogos de datos.
 -	Mayor gobierno de datos: DataZone proporciona una variedad de controles de gobierno que se pueden usar para proteger los datos. Esto puede ayudar a las organizaciones a cumplir con las regulaciones y proteger sus datos del acceso no autorizado.
--	Colaboración de datos mejorada: DataZone facilita que los equipos colaboren en proyectos de datos. Esto puede ayudar a las organizaciones a acelerar el tiempo para obtener información y tomar mejores decisiones.
+%	Colaboración de datos mejorada: DataZone facilita que los equipos colaboren en proyectos de datos. Esto puede ayudar a las organizaciones a acelerar el tiempo para obtener información y tomar mejores decisiones.
