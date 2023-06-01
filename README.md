@@ -1,4 +1,5 @@
 # AWS-DataZone
+![ImagenAWSDZ](https://github.com/DiegoJimenez14/AWS-DataZone/assets/115049957/bcf83a4e-9758-494b-b46d-8f96d94ed3ee)
 Ahora las organizaciones pueden administrar sus activos de datos mediante Amazon DataZone.
 Este servicio proporciona un catalogo centralizado de activos de datos lo que permite a los usuarios encontrar y acceder de manera más sencilla a los datos que sean requeridos. 
 
@@ -17,4 +18,4 @@ Características principales de DataZone
 •	Controles de gobierno: DataZone proporciona una variedad de controles de gobierno para ayudar a las organizaciones a proteger sus datos. Estos controles se pueden usar para controlar quién tiene acceso a los datos, qué pueden hacer con ellos y cómo se almacenan.
 •	Integración con otros servicios de AWS: DataZone se puede integrar con otros servicios de AWS, como Amazon Redshift, Amazon Athena y Amazon S3. Esto facilita el uso de DataZone para administrar los datos almacenados en estos servicios.
 AWS ha lanzado una herramienta con gran poder que ayudará a las organizaciones a administrar sus activos de datos con mayor efectividad
-![ImagenAWSDZ](https://github.com/DiegoJimenez14/AWS-DataZone/assets/115049957/bcf83a4e-9758-494b-b46d-8f96d94ed3ee)
+
